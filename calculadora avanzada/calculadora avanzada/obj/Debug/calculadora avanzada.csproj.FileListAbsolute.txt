@@ -1,0 +1,10 @@
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\bin\Debug\calculadora avanzada.exe.config
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\bin\Debug\calculadora avanzada.exe
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\bin\Debug\calculadora avanzada.pdb
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora avanzada.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora_avanzada.Form1.resources
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora_avanzada.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora avanzada.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora avanzada.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora avanzada.exe
+C:\Users\MARTIN\source\repos\calculadora avanzada\calculadora avanzada\obj\Debug\calculadora avanzada.pdb
